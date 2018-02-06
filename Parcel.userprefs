@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0C1B6C57-0A0F-40AA-A73C-AC734674E4B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/ParcelVariable.cs">
+    <Files>
+      <File FileName="Models/ParcelVariable.cs" Line="7" Column="28" />
+      <File FileName="Controllers/HomeController.cs" Line="20" Column="28" />
+      <File FileName="Models/ParcelPrice.cs" Line="18" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Parcel PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
